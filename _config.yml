@@ -11,14 +11,15 @@ description: > # your text below (remove <br> elements if you don't need line br
    
    <p align="center">
       <!-- email contact -->
-      <a href="mailto:awasthi.shubhika@gmail.com"><img src="images/logo-gmail.png?raw=true" alt="Gmail" />&nbsp;&nbsp;&nbsp;</a>
+      <a href="mailto:awasthi.shubhika@gmail.com"><img src="images/logo-gmail.png?raw=true" alt="Gmail" width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
       <!-- linkedin profile -->
-      <a href="https://www.linkedin.com/in/shubhika-awasthi/"><img src="images/logo-linkedin.png?raw=true" alt="LinkedIn" />&nbsp;&nbsp;&nbsp;</a>
+      <a href="https://www.linkedin.com/in/shubhika-awasthi/"><img src="images/logo-linkedin.png?raw=true" alt="LinkedIn" width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
       <!-- github profile -->
-      <a href="https://github.com/awasthishubhika"><img src="images/logo-github.png?raw=true" alt="GitHub" /></a>
+      <a href="https://github.com/awasthishubhika"><img src="images/logo-github.png?raw=true" alt="GitHub" width="40" height="40" /></a>
    </p>
    
    <br><br>
+
 
    
 remote_theme: pages-themes/minimal@v0.2.0
