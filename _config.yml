@@ -2,20 +2,20 @@ title: Shubhika Awasthi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    
-  <p align = "center">
-  SQL | Python | Excel | Tableau 
-  Data Analyst | Supply Chain | Engineer</p> 
-  
-  <br>
-  
-  <p align="center">
-# email contact   
-  <a href="mailto:awasthi.shubhika@gmail.com"><img src="images/email_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp; 
-# linkedin profile  
-  <a href="https://www.linkedin.com/in/shubhika-awasthi/"><img src="images/linkedin_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp; 
-# github profile 
-  <a href="https://github.com/awasthishubhika"><img src="images/github_icon.png?raw=true"/></p>
-  <br><br>
+   <p align = "center">
+   SQL | Python | Excel | Tableau 
+   Data Analyst | Supply Chain | Engineer</p> 
+   
+   <br>
+   
+   <p align="center">
+   # email contact   
+   <a href="mailto:awasthi.shubhika@gmail.com"><img src="images/email_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp; 
+   # linkedin profile  
+   <a href="https://www.linkedin.com/in/shubhika-awasthi/"><img src="images/linkedin_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp; 
+   # github profile 
+   <a href="https://github.com/awasthishubhika"><img src="images/github_icon.png?raw=true"/></p>
+   <br><br>
    
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
