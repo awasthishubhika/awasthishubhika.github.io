@@ -16,6 +16,11 @@ description: > # your text below (remove <br> elements if you don't need line br
       <a href="https://www.linkedin.com/in/shubhika-awasthi/"><img src="images/logo-linkedin.png?raw=true" alt="LinkedIn" width="40" height="40" />&nbsp;&nbsp;&nbsp;</a>
       <!-- github profile -->
       <a href="https://github.com/awasthishubhika"><img src="images/logo-github.png?raw=true" alt="GitHub" width="40" height="40" /></a>
+      <!-- tableau public profile -->
+      <a href="nolink yet"><img src="images/logo-tableau.png?raw=true" alt="GitHub" width="40" height="40" /></a>
+      <!-- cv link -->
+      <a href="https://github.com/awasthishubhika/awasthishubhika.github.io/blob/465985159e5525a181f7de06f9bc39c3a17a2845/pdf/Shubhika%20Awasthi%20CV.pdf"><img src="images/logo-pdf.png?raw=true" alt="GitHub" width="40" height="40" /></a>
+   
    </p>
    
    <br><br>
@@ -26,7 +31,3 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-
-   # <a href="tableau profile link"><img src="images/logo-tableau.png?raw=true"/>&nbsp;&nbsp;&nbsp;
-   # <a href="projects in pdf link"><img src="images/logo-pdf.png?raw=true"/>&nbsp;&nbsp;&nbsp;
