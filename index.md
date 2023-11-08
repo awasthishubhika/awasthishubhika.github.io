@@ -3,7 +3,8 @@
 
 ### Category Name 1 
 
-[Data Cleaning and EDA with SQL]([/sample_page](https://medium.com/@datatoolbelt/data-cleaning-and-eda-with-sql-4e70e84ef3b2))
+[Data Cleaning and EDA with SQL](https://medium.com/@datatoolbelt/data-cleaning-and-eda-with-sql-4e70e84ef3b2)
+
 <img src="https://github.com/awasthishubhika/awasthishubhika.github.io/blob/aa1666f7bf82846d8ff2f179a82780e64a4ee2dc/images/laptops_revised.jpg"/>
 
 ---
