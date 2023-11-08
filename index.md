@@ -1,7 +1,6 @@
-# DATA PORTFOLIO
+# Portfolio Projects
 ---
 
-### Category Name 1 
 
 [Data Cleaning and EDA with SQL](https://medium.com/@datatoolbelt/data-cleaning-and-eda-with-sql-4e70e84ef3b2)
 
